@@ -13,7 +13,7 @@ img{
     margin:auto;
     margin-top: 30px;
     /* test */
-    background-color: crimson;
+    /* background-color: crimson; */
  
 }
 /* attributi riga */
@@ -21,7 +21,7 @@ img{
     width: 100%;
     /* test */
     border: black solid 1px;
-    background-color:yellowgreen;
+    /* background-color:yellowgreen; */
 
 }
 /* contenitore singolo */
@@ -32,6 +32,9 @@ img{
     vertical-align: middle;  */
     padding: 10px;
     /* test */
-    background-color: wheat;
+    /* background-color: wheat; */
     border: violet solid 1px;
+}
+.testoprezzi span{
+    display: block;
 }
