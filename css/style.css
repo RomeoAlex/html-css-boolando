@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* contenitore principale nel main */
 .contprinc{
     width: 60%;
     margin:auto;
@@ -11,4 +12,20 @@
     /* test */
     background-color: crimson;
     height:500px;
+}
+/* attributi riga */
+.riga{
+    width: 100%;
+    /* test */
+    border: black solid 1px;
+    background-color:yellowgreen;
+    height:250px;
+}
+/* contenitore singolo */
+.contogg{
+    width: 32%;
+    height:250px;
+    /* test */
+    background-color: wheat;
+    border: violet solid 1px;
 }
