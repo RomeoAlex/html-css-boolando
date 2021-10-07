@@ -26,6 +26,7 @@ img{
 }
 /* contenitore singolo */
 .contogg{
+    
     width: 32%;
     display: inline-block;
     /* text-align: center;
@@ -35,6 +36,38 @@ img{
     /* background-color: wheat; */
     border: violet solid 1px;
 }
+.cimg{
+    position: relative;
+    /* test */
+    background-color: tomato;
+    border: black 1px solid;
+}
 .testoprezzi span{
     display: block;
+}
+.cuore{
+    vertical-align: middle;
+    text-align: center;
+    padding:10px;
+    background-color: white;
+    position: absolute;
+    top: 30px;
+    right: 0px;
+}
+.continf{
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    position: absolute;
+    bottom:20px;
+    left: 0;
+    font-size: smaller;
+}
+.verdi{
+    padding: 6px;
+    background-color: darkgreen;
+}
+.perc{
+    padding: 6px;
+    background-color: red;
 }
