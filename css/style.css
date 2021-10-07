@@ -4,3 +4,11 @@
     padding: 0;
     box-sizing: border-box;
 }
+.contprinc{
+    width: 60%;
+    margin:auto;
+    margin-top: 30px;
+    /* test */
+    background-color: crimson;
+    height:500px;
+}
