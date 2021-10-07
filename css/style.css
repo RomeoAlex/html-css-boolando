@@ -42,6 +42,21 @@ img{
     background-color: tomato;
     border: black 1px solid;
 }
+.novis{
+
+}
+
+
+.visibile{
+    position: absolute;
+    top:0;
+    left:0;
+
+}
+.visibile:hover {
+display: none;
+}
+
 .testoprezzi span{
     display: block;
 }
