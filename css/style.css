@@ -43,6 +43,7 @@ img{
 }
 .cimg:hover .visibile{
 display: none;
+cursor: pointer;
 }
 
 .cuore{
